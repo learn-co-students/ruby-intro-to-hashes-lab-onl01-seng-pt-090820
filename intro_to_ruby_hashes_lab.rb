@@ -1,13 +1,15 @@
-def new_hash
+require 'pry'
 
+def new_hash
+  hash = {}
 end
 
 def actor
-
+  actor = {name: "Dwayne The Rock Johnson"}
 end
 
+require 'pry'
 def monopoly
-	monopoly = {}
 
 end
 
